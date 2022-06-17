@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1054990624000",
+    "firebase_url": "https://book-cf403-default-rtdb.firebaseio.com",
+    "project_id": "book-cf403",
+    "storage_bucket": "book-cf403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054990624000:android:d90e97f2a08f117fbdffe5",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054990624000-31ecpeebtdevb2n4nh1l8t392fhbjkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqE-oSy6hF-R5-CyOa4h1PL-xqRXGKAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054990624000-31ecpeebtdevb2n4nh1l8t392fhbjkts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054990624000:android:0164ab3a75b880dabdffe5",
+        "android_client_info": {
+          "package_name": "com.example.bookreading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054990624000-31ecpeebtdevb2n4nh1l8t392fhbjkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqE-oSy6hF-R5-CyOa4h1PL-xqRXGKAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054990624000-31ecpeebtdevb2n4nh1l8t392fhbjkts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054990624000:android:dbeafce30d3b4b3dbdffe5",
+        "android_client_info": {
+          "package_name": "com.js.eBook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054990624000-31ecpeebtdevb2n4nh1l8t392fhbjkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqE-oSy6hF-R5-CyOa4h1PL-xqRXGKAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054990624000-31ecpeebtdevb2n4nh1l8t392fhbjkts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
